@@ -1,0 +1,35 @@
+.checked {
+    text-decoration: line-through;
+  }
+
+body{
+    background-color: rgb(250, 118, 118);
+    display: flex;
+    justify-content: center;
+    flex-direction:column
+   
+}
+
+main{
+    border-radius: 10px;
+    padding: 20px;
+    width: 60%;
+    height: 65vh;
+   
+}
+
+input {
+    background-color: rgb(250, 250, 250);
+    padding: 5px;
+    border-radius: 10px;
+    width: 20%;
+    margin-top: 10px;
+    margin-bottom: 30px;
+}
+
+button{
+    width: 200px;
+    background-color: rgb(131, 181, 255);
+    border-radius: 10px;
+
+}
